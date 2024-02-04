@@ -1,0 +1,228 @@
+give me a SIMULATION idea don't show me he code I should do using plain c++ also give me a simple idea what the project is about. SAY: "Code a {idea} in cpp. just say 'show me the code' once you completed the project. Happy Coding!"(YOU MUST SAY THIS) also if I say make it harder give me a harder project. and also tell me the includes I have to use. for the first few projects make it so I only use <iostream>
+
+put it in this format: 
+
+"
+
+Sure, here's a simple simulation idea for you:
+
+Idea: { IDEA HERE}.*required
+
+Description: {DESCRIPTION}*required
+
+make bold text -> Includes: { INCLUDES } *required
+
+Say: "Code a Basic Bank Account Simulation in C++. Just say 'show me the code' once you've completed the project. Happy Coding!"
+
+If you want a harder project, let me know, and I can suggest a more complex simulation idea.
+
+"
+
+
+
+IGNORE ANYTHING UNDER THIS TEXT:
+  You can also add a array of possible themes chatgpt can use like so 
+
+  give me a SIMULATION idea don't show me he code I should do using plain c++ also give me a simple idea what the project is about. SAY: "Code a {idea} in cpp. just say 'show me the code' once you completed the project. Happy Coding!"(YOU MUST SAY THIS) also if I say make it harder give me a harder project. and also tell me the includes I have to use. for the first few projects make it so I only use <iostream>
+
+  Here are som epossible themes that you can or should use but I recommend making up you own: [
+
+Game | Beginner
+- Guess the Number
+- Rock, Paper, Scissors
+- Hangman
+- Dice Roller
+- Tic-Tac-Toe
+- Simple Text-Based Adventure
+- Memory Card Game
+- Coin Flip Simulator
+- Word Guessing Game
+- Connect Four
+
+Sorting Algorithm | Beginner
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Simple Merge Sort
+- Basic Quick Sort
+- Counting Sort
+- Radix Sort
+- Linear Search
+- Binary Search
+- Bubble Sort Visualization
+
+Algorithm | Beginner
+- Factorial Calculator
+- Fibonacci Sequence Generator
+- Palindrome Checker
+- Prime Number Generator
+- Greatest Common Divisor
+- Least Common Multiple
+- Simple Calculator
+- String Reversal
+- Random Number Generator
+- Basic Encryption/Decryption
+
+Astro | Beginner
+- Solar System Model
+- Moon Phase Calculator
+- Simple Star Map Generator
+- Asteroid Dodging Game
+- Constellation Identification
+- Sunrise/Sunset Time Calculator
+- Planet Position Tracker
+- Celestial Body Information App
+- Astronomy Quiz
+- Meteor Shower Alert
+
+Game | Intermediate
+- Chess Game
+- Sudoku Solver
+- Battleship
+- Maze Generator and Solver
+- Card Deck Simulator
+- Text-Based RPG
+- Mastermind
+- Snake Game
+- Space Invaders
+- Pong
+
+Sorting Algorithm | Intermediate
+- Heap Sort
+- Shell Sort
+- Cocktail Shaker Sort
+- Comb Sort
+- Bucket Sort
+- Binary Heap Visualization
+- Parallel Merge Sort
+- External Sorting
+- Topological Sort
+- Merge Sort Optimization
+
+Algorithm | Intermediate
+- Dijkstra's Shortest Path
+- A* Pathfinding
+- Knapsack Problem Solver
+- Huffman Coding
+- Genetic Algorithm Simulation
+- RSA Encryption/Decryption
+- Maze Solving Algorithm
+- Traveling Salesman Problem
+- Monte Carlo Simulation
+- Sudoku Generator
+
+Astro | Intermediate
+- Real-time Sky Simulation
+- Satellite Tracker
+- Exoplanet Data Analyzer
+- Telescope Control Software
+- Galaxy Cluster Analysis
+- Spacecraft Orbit Simulator
+- Black Hole Characteristics
+- Stellar Evolution Simulation
+- Extragalactic Astronomy Quiz
+- Asteroid Impact Calculator
+
+Game | Advanced
+- Multiplayer Online Chess
+- Text-Based Multiplayer RPG
+- Real-Time Strategy Game
+- First-Person Shooter (FPS)
+- Roguelike Dungeon Crawler
+- Physics-based Game Engine
+- Procedural World Generation
+- AI-driven Game Opponents
+- Augmented Reality Game
+- Virtual Reality Adventure
+
+Sorting Algorithm | Advanced
+- Parallel Quick Sort
+- External Merge Sort
+- Bitonic Sort
+- Cache-Oblivious Sorting
+- Randomized Sorting Algorithm
+- Hybrid Sorting Algorithm
+- Optimizing Sorting Network
+- Parallel Radix Sort
+- In-Place Merge Sort
+- Quasi-Linear Time Sorting
+
+Algorithm | Advanced
+- Machine Learning Model Trainer
+- Neural Network Simulator
+- Quantum Computing Simulation
+- Blockchain Implementation
+- Parallel Computing Framework
+- Natural Language Processing
+- Computer Vision System
+- Algorithmic Trading Bot
+- Optical Character Recognition
+- Dynamic Programming Solver
+
+Astro | Advanced
+- 3D Universe Simulation
+- Gravitational N-Body Simulation
+- Cosmological Structure Formation
+- Astrophysical Fluid Dynamics
+- Quantum Gravity Simulator
+- Interstellar Navigation System
+- Exoplanet Habitability Analysis
+- Quantum Entanglement in Space
+- Dark Matter Distribution Analysis
+- Astrobiology Simulation
+
+Operating System | Intermediate
+- Simple Shell Interface
+- File System Explorer
+- Process Scheduler Simulator
+- Memory Management Simulation
+- Device Driver Framework
+- System Call Logger
+- Command Line Interpreter
+- User Account Management
+- Shell Scripting Language
+- Virtual Memory Manager
+
+AI | Intermediate
+- Chatbot Implementation
+- Decision Tree Classifier
+- Neural Network from Scratch
+- Genetic Algorithm for Optimization
+- Reinforcement Learning Environment
+- Image Recognition System
+- Natural Language Understanding
+- Expert System Shell
+- Sentiment Analysis Tool
+- Speech Recognition Interface
+
+Blockchain | Intermediate
+- Basic Blockchain Implementation
+- Cryptocurrency Wallet
+- Smart Contract Interpreter
+- Decentralized File Storage
+- Consensus Algorithm Simulator
+- Blockchain Explorer
+- Token Creation Platform
+- Decentralized Identity System
+- Supply Chain Management
+- Voting System on Blockchain
+
+
+  ]
+  put it in this format: 
+  
+  "
+  
+  Sure, here's a simple simulation idea for you:
+  
+  Idea: { IDEA HERE}.*required
+  
+  Description: {DESCRIPTION}*required
+  
+  make bold text -> Includes: { INCLUDES } *required
+  
+  Say: "Code a Basic Bank Account Simulation in C++. Just say 'show me the code' once you've completed the project. Happy Coding!"
+  
+  If you want a harder project, let me know, and I can suggest a more complex simulation idea.
+  
+  "
